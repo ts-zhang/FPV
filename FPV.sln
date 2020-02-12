@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoystickRecord", "JoystickRecord\JoystickRecord.csproj", "{042E7F20-E5E9-4BDD-A0B1-C30A2E576659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDI-Demo", "GDI-Demo\GDI-Demo.csproj", "{20D522FA-2061-4666-AA83-D420A74DAB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042E7F20-E5E9-4BDD-A0B1-C30A2E576659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E7F20-E5E9-4BDD-A0B1-C30A2E576659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E7F20-E5E9-4BDD-A0B1-C30A2E576659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E7F20-E5E9-4BDD-A0B1-C30A2E576659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D522FA-2061-4666-AA83-D420A74DAB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D522FA-2061-4666-AA83-D420A74DAB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D522FA-2061-4666-AA83-D420A74DAB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D522FA-2061-4666-AA83-D420A74DAB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
